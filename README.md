@@ -1,5 +1,5 @@
 # Squeezeo
-A smart and innovative vending machine using ARDUINO UNO that crafts perfect cups of coffee, fresh juices, and custom juice blends from diverse recipes..
+A smart and innovative vending machine using ARDUINO UNO that crafts perfect cups of coffee, fresh juices, and custom juice blends from diverse recipes
 
 **This innovative, Arduino Uno-powered vending machine is designed to deliver a seamless and automated beverage-making experience. Equipped with cutting-edge components, it combines precision, efficiency, and versatility to create a variety of drink recipes, including fresh juices, coffee, and custom blends—all without human intervention**
 
